@@ -1,0 +1,26 @@
+C:\Users\ReRezd\Desktop\GCCAdapterTester\GCCAdapterTester\bin\Debug\GCCAdapterTester.exe.config
+C:\Users\ReRezd\Desktop\GCCAdapterTester\GCCAdapterTester\bin\Debug\GCCAdapterTester.exe
+C:\Users\ReRezd\Desktop\GCCAdapterTester\GCCAdapterTester\bin\Debug\GCCAdapterTester.pdb
+C:\Users\ReRezd\Desktop\GCCAdapterTester\GCCAdapterTester\bin\Debug\LibUsbDotNet.LibUsbDotNet.dll
+C:\Users\ReRezd\Desktop\GCCAdapterTester\GCCAdapterTester\bin\Debug\LibUsbDotNet.LibUsbDotNet.pdb
+C:\Users\ReRezd\Desktop\GCCAdapterTester\GCCAdapterTester\obj\Debug\GCCAdapterTester.csprojAssemblyReference.cache
+C:\Users\ReRezd\Desktop\GCCAdapterTester\GCCAdapterTester\obj\Debug\GCCAdapterTester.Form1.resources
+C:\Users\ReRezd\Desktop\GCCAdapterTester\GCCAdapterTester\obj\Debug\GCCAdapterTester.Properties.Resources.resources
+C:\Users\ReRezd\Desktop\GCCAdapterTester\GCCAdapterTester\obj\Debug\GCCAdapterTester.csproj.GenerateResource.cache
+C:\Users\ReRezd\Desktop\GCCAdapterTester\GCCAdapterTester\obj\Debug\GCCAdapterTester.csproj.CoreCompileInputs.cache
+C:\Users\ReRezd\Desktop\GCCAdapterTester\GCCAdapterTester\obj\Debug\GCCAdapterTester.csproj.CopyComplete
+C:\Users\ReRezd\Desktop\GCCAdapterTester\GCCAdapterTester\obj\Debug\GCCAdapterTester.exe
+C:\Users\ReRezd\Desktop\GCCAdapterTester\GCCAdapterTester\obj\Debug\GCCAdapterTester.pdb
+D:\DriveSync\New folder\GCCAdapterTester\GCCAdapterTester\bin\Debug\GCCAdapterTester.exe.config
+D:\DriveSync\New folder\GCCAdapterTester\GCCAdapterTester\bin\Debug\GCCAdapterTester.exe
+D:\DriveSync\New folder\GCCAdapterTester\GCCAdapterTester\bin\Debug\GCCAdapterTester.pdb
+D:\DriveSync\New folder\GCCAdapterTester\GCCAdapterTester\bin\Debug\LibUsbDotNet.LibUsbDotNet.dll
+D:\DriveSync\New folder\GCCAdapterTester\GCCAdapterTester\bin\Debug\LibUsbDotNet.LibUsbDotNet.pdb
+D:\DriveSync\New folder\GCCAdapterTester\GCCAdapterTester\obj\Debug\GCCAdapterTester.csprojAssemblyReference.cache
+D:\DriveSync\New folder\GCCAdapterTester\GCCAdapterTester\obj\Debug\GCCAdapterTester.Form1.resources
+D:\DriveSync\New folder\GCCAdapterTester\GCCAdapterTester\obj\Debug\GCCAdapterTester.Properties.Resources.resources
+D:\DriveSync\New folder\GCCAdapterTester\GCCAdapterTester\obj\Debug\GCCAdapterTester.csproj.GenerateResource.cache
+D:\DriveSync\New folder\GCCAdapterTester\GCCAdapterTester\obj\Debug\GCCAdapterTester.csproj.CoreCompileInputs.cache
+D:\DriveSync\New folder\GCCAdapterTester\GCCAdapterTester\obj\Debug\GCCAdapterTester.csproj.CopyComplete
+D:\DriveSync\New folder\GCCAdapterTester\GCCAdapterTester\obj\Debug\GCCAdapterTester.exe
+D:\DriveSync\New folder\GCCAdapterTester\GCCAdapterTester\obj\Debug\GCCAdapterTester.pdb
